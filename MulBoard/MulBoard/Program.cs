@@ -16,7 +16,7 @@ namespace MulBoard
                 for(int j=0; j<10; j++)
                 {
                     arr[i, j] = (i+1) * (j+1);
-                    Console.Write($" {arr[i,j]} \t ");
+                    Console.Write(string.Format($"{arr[i, j],4}"));
                 }
                 Console.WriteLine("");
             }
