@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace BinaryDisplay
 {
+    //No input validatoins.
+    //Didn't use bitwise operatins such as &, |, << and >>
+    //Doesn't count the number of "1"s.
     class Program
     {
         static void Main(string[] args)
@@ -22,6 +25,8 @@ namespace BinaryDisplay
                 while (dn > 0) {
                     temp = dn % 2;
                     dn /= 2;
+
+                    //it is not efficient to concat string this way. Consider using StringBuilder.
                     bn = temp.ToString() + bn;
                 }
 
