@@ -10,6 +10,8 @@ namespace Calculator
     {
         static void Main(string[] args)
         {
+            //usually in C# we declare each variable at a seperate line.
+            //Also, please consider using better names for your variables..
             string t1, t2;
             double result = 0;
             Console.WriteLine("Please enter the first number : ");
@@ -42,7 +44,8 @@ namespace Calculator
                         break;
                     }
 
-                default: Console.WriteLine("You didn't enter a logical operation."); break;
+                default: Console.WriteLine("You didn't enter a logical operation.");
+                    break;
             }
 
             Console.WriteLine($"Your result is : {result}");
