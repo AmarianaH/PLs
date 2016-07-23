@@ -10,6 +10,7 @@ namespace MulBoard
     {
         static void Main(string[] args)
         {
+            //It isn't neccessary to use an array. But ok.
             int [,] arr = new int[10,10]; 
             for(int i=0; i < 10; i++)
             {
