@@ -4,6 +4,8 @@ using Strings;
 
 namespace test_Strings
 {
+    //Select a better name
+    //Can add more unit tests
     [TestClass]
     public class UnitTest1
     {
