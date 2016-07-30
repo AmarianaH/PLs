@@ -1,15 +1,20 @@
 ﻿using System;
 
+//The project isn't a class library project
 namespace AccountsLibb
 {
     class Account
     {
 
+        //The convention is to call it _Id.
         readonly int ID;
+
+        //Unused variable
         readonly double Balance;
         public double account;
         readonly double overdraft;
         
+        //Why this constructor isn't internal?
         /// <summary>
         /// this is the constructor for this calss! 
         /// </summary>
@@ -19,13 +24,18 @@ namespace AccountsLibb
         {
             ID = id;
             Balance = balance;
+
             this.overdraft = -5000;
         }
 
-        public int GetID()
+        //This isn't a property. 
+        //Should have been: int GetId { get { return ID; } }
+        public int GetID() 
         {
             return this.ID;
         }
+
+        //Where is the balance property?
 
 
         /// <summary>
@@ -47,6 +57,7 @@ namespace AccountsLibb
             double temp = this.account - WdSum;
             if (temp < overdraft)
             {
+                //It isn't a good idea to print console messages. You are writing a class library that can run in an applicatoin that isn't a console applicatoin
                 Console.WriteLine("You Can't withraw this value!! Sorry for that !!! ");
             }
             else
