@@ -10,21 +10,27 @@ namespace Primes
     {
         static int[] CalcPrimes(int x, int y)
         {
+            //the new[]{0} is unnecessary. new ArrayList() is suffient.
             ArrayList arr = new ArrayList(new[]{0});
             
             for (int i = x; i <= y; i++)
             {
                 bool isPrime = true; 
-                for (int j = 2; j < i; j++) {
+
+                //The convention in C# is to start the bracets in a new line.
+                for (int j = 2; j < i; j++)
+                {
                     if (i % j == 0) {
                         isPrime = false;
                         break;
                     }
                 }
-                if (isPrime) {
+                if (isPrime)
+                {
                     arr.Add(i);
                 }
             }
+            //You can use arr.Count: new int[arr.Count]
             int[] tmp = new int[y-x];
             arr.CopyTo(tmp);
             return tmp;
