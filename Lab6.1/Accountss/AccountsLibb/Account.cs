@@ -49,6 +49,8 @@ namespace AccountsLibb
             {
                 //Console.WriteLine("You Can't withraw this value!! Sorry for that !!! ");
                 throw new ArgumentOutOfRangeException("You Can't withraw this value!! Sorry for that !!! ");
+
+                //the return statement is unnecessary and is unreachable code
                 return false;
             }
             else
@@ -66,6 +68,7 @@ namespace AccountsLibb
         /// <param name="amount"> the ammount we want to add.</param>
         public void Transfer(Account account2, double amount)
         {
+            //where is the try-finally and the logging with the balance before and after the operation is done?
             if (account2 == null || amount == 0) throw new ArgumentNullException("the account or the ammount is null");
             if (this.Withdraw(amount))
             {
