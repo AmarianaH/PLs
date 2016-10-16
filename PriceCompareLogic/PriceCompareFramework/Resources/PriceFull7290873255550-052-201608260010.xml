@@ -1,0 +1,283 @@
+﻿<Root>
+  <XmlDocVersion>19</XmlDocVersion>
+  <ChainId>7290873255550</ChainId>
+  <SubChainId>1</SubChainId>
+  <StoreId>52</StoreId>
+  <StoreName>Tiv Taam - 52 - טיב טעם</StoreName>
+  <BikoretNo>6</BikoretNo>
+  <DllVerNo>9.4.0.21</DllVerNo>
+  <Items Count="21250">
+  <Item>
+      <PriceUpdateDate>2014-11-09 18:06:56</PriceUpdateDate>
+      <ItemCode>7290010237623</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>נשר מאלט 1.5 ליטר</ItemName>
+      <ManufacturerName>טמפו משקאות בעמ</ManufacturerName>
+      <ManufactureCountry>ישראל</ManufactureCountry>
+      <ManufacturerItemDescription>נשר מאלט 1.5 ליטר תריסר</ManufacturerItemDescription>
+      <UnitQty>ליטרים</UnitQty>
+      <Quantity>1.50</Quantity>
+      <UnitOfMeasure>ליטר</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>7.90</ItemPrice>
+      <UnitOfMeasurePrice>5.2667</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>10887</ItemId>
+    </Item>
+	<Item>
+      <PriceUpdateDate>2014-11-09 18:06:56</PriceUpdateDate>
+      <ItemCode>7290010237630</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>דיאט נשר מאלט 1.5 לי</ItemName>
+      <ManufacturerName>טמפו משקאות בעמ</ManufacturerName>
+      <ManufactureCountry>ישראל</ManufactureCountry>
+      <ManufacturerItemDescription>דיאט נשר מאלט 1.5 ליטר תריסר</ManufacturerItemDescription>
+      <UnitQty>ליטרים</UnitQty>
+      <Quantity>1.50</Quantity>
+      <UnitOfMeasure>ליטר</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>7.90</ItemPrice>
+      <UnitOfMeasurePrice>5.2667</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>10888</ItemId>
+    </Item>
+	<Item>
+      <PriceUpdateDate>2016-06-29 12:38:18</PriceUpdateDate>
+      <ItemCode>7290010429301</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>מעדן תות 100% פרי 25</ItemName>
+      <ManufacturerName>בית אל מזון בע"מ</ManufacturerName>
+      <ManufactureCountry>ישראל</ManufactureCountry>
+      <ManufacturerItemDescription>מעדן תות 250 גרם</ManufacturerItemDescription>
+      <UnitQty>גרמים</UnitQty>
+      <Quantity>250.00</Quantity>
+      <UnitOfMeasure>100 גרם</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>15.90</ItemPrice>
+      <UnitOfMeasurePrice>6.3600</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>12232</ItemId>
+    </Item>
+	<Item>
+      <PriceUpdateDate>2014-05-11 18:44:37</PriceUpdateDate>
+      <ItemCode>7290010945146</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>קוטג 3% מועשר 250 גר</ItemName>
+      <ManufacturerName>טרה</ManufacturerName>
+      <ManufactureCountry>ישראל</ManufactureCountry>
+      <ManufacturerItemDescription>קוטג 3% 250 גרם- נעמ</ManufacturerItemDescription>
+      <UnitQty>גרמים</UnitQty>
+      <Quantity>250.00</Quantity>
+      <UnitOfMeasure>100 גרם</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>6.20</ItemPrice>
+      <UnitOfMeasurePrice>2.4800</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>14229</ItemId>
+    </Item>
+	<Item>
+      <PriceUpdateDate>2016-02-11 11:27:42</PriceUpdateDate>
+      <ItemCode>7290010945306</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>קרטון חלב 2 ליטר 3%</ItemName>
+      <ManufacturerName>י"              ,</ManufacturerName>
+      <ManufactureCountry>לא ידוע</ManufactureCountry>
+      <ManufacturerItemDescription>קרטון חלב 2 ליטר 3% מהדרין</ManufacturerItemDescription>
+      <UnitQty>ליטרים</UnitQty>
+      <Quantity>2.00</Quantity>
+      <UnitOfMeasure>ליטר</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>11.50</ItemPrice>
+      <UnitOfMeasurePrice>5.7500</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>14836</ItemId>
+    </Item>
+	<Item>
+      <PriceUpdateDate>2014-05-11 18:44:44</PriceUpdateDate>
+      <ItemCode>7290011194246</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>קוטג 5%  250 גר</ItemName>
+      <ManufacturerName>STRAUSS</ManufacturerName>
+      <ManufactureCountry>ישראל</ManufactureCountry>
+      <ManufacturerItemDescription>קוטג %5 עם סידן 250 גרם</ManufacturerItemDescription>
+      <UnitQty>גרמים</UnitQty>
+      <Quantity>250.00</Quantity>
+      <UnitOfMeasure>100 גרם</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>6.20</ItemPrice>
+      <UnitOfMeasurePrice>2.4800</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>14521</ItemId>
+    </Item>
+	<Item>
+      <PriceUpdateDate>2014-05-11 18:41:16</PriceUpdateDate>
+      <ItemCode>9720188050109</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>גבינת טופו בטעמים</ItemName>
+      <ManufacturerName>מחלבת משק צוריאל</ManufacturerName>
+      <ManufactureCountry>ארה"ב</ManufactureCountry>
+      <ManufacturerItemDescription>טופוטי - ממרח טופו בטעם גבינה - 225 גר</ManufacturerItemDescription>
+      <UnitQty>גרמים</UnitQty>
+      <Quantity>227.00</Quantity>
+      <UnitOfMeasure>100 גרם</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>24.60</ItemPrice>
+      <UnitOfMeasurePrice>10.8370</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>4254</ItemId>
+    </Item>
+	<Item>
+      <PriceUpdateDate>2014-05-11 19:03:40</PriceUpdateDate>
+      <ItemCode>8693495042192</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>פלמוליב סבון מוצק קו</ItemName>
+      <ManufacturerName>COLGATE (GBP)-PALMOL</ManufacturerName>
+      <ManufactureCountry>תורכיה</ManufactureCountry>
+      <ManufacturerItemDescription>פלמוליב סבון מוצק קוקוס 4יחי 100ג חדש</ManufacturerItemDescription>
+      <UnitQty>גרמים</UnitQty>
+      <Quantity>400.00</Quantity>
+      <UnitOfMeasure>100 גרם</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>21.90</ItemPrice>
+      <UnitOfMeasurePrice>5.4750</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>66930</ItemId>
+    </Item>
+	<Item>
+      <PriceUpdateDate>2016-08-02 15:25:04</PriceUpdateDate>
+      <ItemCode>8714599513781</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>גיקובס גולד מיובש בה</ItemName>
+      <ManufacturerName>JDE</ManufacturerName>
+      <ManufactureCountry>רוסיה</ManufactureCountry>
+      <ManufacturerItemDescription>גיקובס גולד מיובש בהקפאה 200 גר כשל"פ</ManufacturerItemDescription>
+      <UnitQty>גרמים</UnitQty>
+      <Quantity>200.00</Quantity>
+      <UnitOfMeasure>100 גרם</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>26.90</ItemPrice>
+      <UnitOfMeasurePrice>13.4500</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>99524</ItemId>
+    </Item>
+	<Item>
+      <PriceUpdateDate>2016-01-20 15:16:19</PriceUpdateDate>
+      <ItemCode>8714599513866</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>גיקובס קרונונג מיובש</ItemName>
+      <ManufacturerName>JDE</ManufacturerName>
+      <ManufactureCountry>רוסיה</ManufactureCountry>
+      <ManufacturerItemDescription>גיקובס קרונונג מיובש בהקפאה 200 גר כשל"פ</ManufacturerItemDescription>
+      <UnitQty>גרמים</UnitQty>
+      <Quantity>200.00</Quantity>
+      <UnitOfMeasure>100 גרם</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>29.90</ItemPrice>
+      <UnitOfMeasurePrice>14.9500</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>99523</ItemId>
+    </Item>
+	<Item>
+      <PriceUpdateDate>2014-07-07 12:01:05</PriceUpdateDate>
+      <ItemCode>8714789930848</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>קולגייט משחת אופטיק</ItemName>
+      <ManufacturerName>COLGATE ($) -PALMOLI</ManufacturerName>
+      <ManufactureCountry>פולין</ManufactureCountry>
+      <ManufacturerItemDescription>קולגייט משחת אופטיק וייט הלבנה מיידית 75</ManufacturerItemDescription>
+      <UnitQty>מיליליטרים</UnitQty>
+      <Quantity>75.00</Quantity>
+      <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>34.70</ItemPrice>
+      <UnitOfMeasurePrice>46.2667</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>72697</ItemId>
+    </Item>
+	<Item>
+      <PriceUpdateDate>2016-06-29 12:39:41</PriceUpdateDate>
+      <ItemCode>8850389105849</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>סאפה אלוורה אפרסק 1</ItemName>
+      <ManufacturerName>BARONE RICASOLI S.P.</ManufacturerName>
+      <ManufactureCountry>תאילנד</ManufactureCountry>
+      <ManufacturerItemDescription>סאפה אפרסק ליטר</ManufacturerItemDescription>
+      <UnitQty>ליטרים</UnitQty>
+      <Quantity>1.00</Quantity>
+      <UnitOfMeasure>ליטר</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>13.90</ItemPrice>
+      <UnitOfMeasurePrice>13.9000</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>44186</ItemId>
+    </Item>
+	<Item>
+      <PriceUpdateDate>2016-06-29 12:39:41</PriceUpdateDate>
+      <ItemCode>8850389105832</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>סאפה אלוורה תפוחים 1</ItemName>
+      <ManufacturerName>BARONE RICASOLI S.P.</ManufacturerName>
+      <ManufactureCountry>תאילנד</ManufactureCountry>
+      <ManufacturerItemDescription>סאפה תפוח ליטר</ManufacturerItemDescription>
+      <UnitQty>ליטרים</UnitQty>
+      <Quantity>1.00</Quantity>
+      <UnitOfMeasure>ליטר</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>13.90</ItemPrice>
+      <UnitOfMeasurePrice>13.9000</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>44184</ItemId>
+    </Item>
+	<Item>
+      <PriceUpdateDate>2016-06-29 12:39:40</PriceUpdateDate>
+      <ItemCode>8850389105825</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>סאפה אלוורה ענבים 1</ItemName>
+      <ManufacturerName>BARONE RICASOLI S.P.</ManufacturerName>
+      <ManufactureCountry>תאילנד</ManufactureCountry>
+      <ManufacturerItemDescription>סאפה ענבים ליטר</ManufacturerItemDescription>
+      <UnitQty>ליטרים</UnitQty>
+      <Quantity>1.00</Quantity>
+      <UnitOfMeasure>ליטר</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>13.90</ItemPrice>
+      <UnitOfMeasurePrice>13.9000</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>44185</ItemId>
+    </Item>
+	
+	
+	
+	
+	
+	
+  </Items>
+</Root>
